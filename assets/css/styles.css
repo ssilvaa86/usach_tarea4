@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    display: block;
+  }
+  
+   h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: navy;
+    align-self: start;
+
+  }
+
+  p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(59, 28, 6);
+    align-self: start;
+    width: 80%; 
+    margin: 20px; 
+    text-align: justify; 
+
+  }
+  img {
+    display: flex;
+    margin: 0 auto; 
+    max-width: 100%;
+    height: auto;
+ 
+    }
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:navy;
+    align-self: start;
+    width: 80%; 
+    margin: 0 auto; 
+    text-align: justify; 
+
+}
